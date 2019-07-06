@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GrenadeLauncher.iml" filepath="$PROJECT_DIR$/GrenadeLauncher.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/grenade.iml" filepath="$PROJECT_DIR$/grenade.iml" />
     </modules>
   </component>
 </project>
