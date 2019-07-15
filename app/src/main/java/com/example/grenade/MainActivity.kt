@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity()/*, NavigationView.OnNavigationItemSelec
 
 //        drawer_items.layoutManager = LinearLayoutManager(this)
 //        drawer_items.adapter = AnimalAdapter(AppArray, this)
-        var rowx = 6
+        var rowx = 5 //more like no. of columns
         
         val gridLayoutManager = GridLayoutManager(applicationContext,rowx,RecyclerView.VERTICAL,false)
         drawer_items.layoutManager = gridLayoutManager
